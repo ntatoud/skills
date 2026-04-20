@@ -1,5 +1,5 @@
 ---
-name: minimal-bug-repro
+name: minimal-bug-reproduction
 description: Set up a minimal bug reproduction repository and push it to GitHub. Analyzes the bug description and provided code, detects the stack, builds a minimal repro, and produces a ready-to-paste GitHub issue template. Use when the user says "create a repro", "minimal reproduction", "bug repro", or wants to isolate and share a bug.
 ---
 
